@@ -18,7 +18,7 @@
     "dayjs": "^1.11.13",
     "emailjs-com": "^3.2.0",
     "firebase": "^11.9.1",
-    "framer-motion": "^12.17.0",
+    "framer-motion": "^12.18.1",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
     "react-dom": "^19.1.0",
